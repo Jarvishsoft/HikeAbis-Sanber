@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:hike_abis/ui/home-bottom/home_bottomnavbar.dart';
 
 class FAQ extends StatelessWidget {
   const FAQ({super.key});
