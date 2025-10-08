@@ -113,7 +113,7 @@ class _HomePageState extends State<HomePage> {
                               Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                      builder: (_) => const WartaGunung()));
+                                      builder: (_) => const BeritaPage()));
                               break;
                             case 'SOP':
                               Navigator.push(
